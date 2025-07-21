@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Cybersecurity Internship Program 2025
 
 Hi, I'm Vaibhav Ratan, also known as VRJ-RYUKE 👾
@@ -55,4 +54,3 @@ Participants are expected to actively engage in all activities, complete assigne
 We look forward to an exciting and educational experience in the Cybersecurity Internship Program 2025!
 =======
 # Cybersecurity-Internship-Program-2025
->>>>>>> ff9fa898009399b19d83ec74ed31920465243513
